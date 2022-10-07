@@ -9,3 +9,4 @@ Assignment involved utilizing SQL queries to create tables from a fictional comp
 
 ### Data
 A relational database made up of 17 tables contatining data on film rentals, customers, actors, payments and more.
+<a href=http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip>Data Source</a>
