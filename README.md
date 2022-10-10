@@ -1,5 +1,5 @@
-# RockbusterProject
-A CareerFoundry Project utilizing PostgreSQL to analyze parameters in a movie rental company's database 
+# Python Project
+A CareerFoundry Project utilizing Python to clean, analyze, and visualize customer data from Instacart 
 
 ### Objective
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. It is now looking to diversify and launch an online video rental service in order to stay competitive.
